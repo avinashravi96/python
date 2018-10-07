@@ -1,2 +1,1 @@
-# webscraping
-web scraping using requests and beautifulsoup modules
+python course training files
